@@ -10,7 +10,7 @@ Any valuable information to help us find IT-professionals will be rewarded!
 
 -   ✔️ Experience with TypeScript and Node.js/SQL or React is a must.
 -   ✔️ Being able to communicate in English.
--   ✔️ Flexibility is second nature. For you.
+-   ✔️ Flexibility is second nature for you.
 -   ✔️ Ability to write clean code that avoids bugs. Quality matters to us!
 -   ✔️ Being able to see the larger picture. Don't just add code until the feature works - understand how your changes influence the overall architecture and respect the intents of your team members!
 
